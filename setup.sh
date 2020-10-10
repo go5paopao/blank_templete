@@ -18,3 +18,6 @@ mkdir -p data
 mkdir -p pickle
 mkdir -p log
 mkdir -p predict
+
+rm get-docker.sh
+rm -rf .git
